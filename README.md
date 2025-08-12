@@ -10,6 +10,7 @@ Whether you’re setting up a new environment, refining your code style, or stre
 ## Contents
 
 - [VPS Flask Docker Deployment](VPS_FLASK_DOCKER.md) — Step-by-step guide for deploying a Flask application on a VPS using Docker.
+- [DOCKER ESSENTIAL COMMANDS](DOCKER_CHEAT_SHEET.md) — Documents all the core prompts related to Docker
   
 ---
 
