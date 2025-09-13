@@ -10,7 +10,9 @@ Whether you’re setting up a new environment, refining your code style, or stre
 ## Contents
 
 - [VPS Flask Docker Deployment](VPS_FLASK_DOCKER.md) — Step-by-step guide for deploying a Flask application on a VPS using Docker.
-- [DOCKER ESSENTIAL COMMANDS](DOCKER_CHEAT_SHEET.md) — Documents all the core prompts related to Docker
+- [Docker Cheet Sheet ](DOCKER_CHEAT_SHEET.md) — Documents all the core prompts related to Docker
+- [Learn Python OOP Indently Notes](python_oop_fundamentals.md) — Beginner‑friendly Python OOP notes covering classes, objects, methods, attributes, __init__, and self, with diagrams and a full Car example.
+
   
 ---
 
